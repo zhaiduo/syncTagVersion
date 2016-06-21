@@ -1,2 +1,2 @@
 # syncTagVersion
-Synchronize version in package.json according tag version.
+Synchronize version in package.json according to the tag version.

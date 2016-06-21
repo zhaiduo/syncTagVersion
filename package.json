@@ -1,0 +1,15 @@
+{
+  "name": "syncTagVersion",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "gulp"
+  },
+  "config": {},
+  "main": "",
+  "dependencies": {
+    "any-shell-escape": "^0.1.1",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  },
+  "devDependencies": {}
+}
