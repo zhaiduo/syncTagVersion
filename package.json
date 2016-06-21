@@ -2,12 +2,14 @@
   "name": "syncTagVersion",
   "version": "0.1.0",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "mocha": "mocha"
   },
   "config": {},
   "main": "",
   "dependencies": {
     "any-shell-escape": "^0.1.1",
+    "chai": "^3.5.0",
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7"
   },
