@@ -1,6 +1,6 @@
 {
   "name": "syncTagVersion",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "scripts": {
     "start": "gulp",
     "mocha": "mocha"
@@ -11,6 +11,7 @@
     "any-shell-escape": "^0.1.1",
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
+    "gulp-change": "^1.0.0",
     "gulp-util": "^3.0.7"
   },
   "devDependencies": {}
